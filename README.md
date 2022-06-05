@@ -1,11 +1,25 @@
 <body>
-  <h1 style="font-size: 25px;">Olá! Meu nome é Nalbert e seja bem-vindo ao meu Github.</h1>
-
-  <a href=https://www.instagram.com/nalbertcezar/><img src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" style="width: 2%;"></a>
-  <a href=https://www.linkedin.com/in/nalbert-cezar-1aa7b5176/><img src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536505.png?token=exp=1651711897~hmac=a098080c277bea1c1af8e42d1aca8921" style="width: 2%;"></a>
-
-  <ul>
-    <li>🎓Estudante de Análise e Desenvolvimento de Sistemas.</li>
-    <li>💻Compartilhando meu progresso pessoal como desenvolvedor.</li>
-  </ul>
+  <h1>Olá! Meu nome é Nalbert e seja bem-vindo ao meu Github.</h1>
+  
+<div> 
+  <a href="https://www.instagram.com/nalbertcezar/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:nalbertelric@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nalbert-cezar-1aa7b5176/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+  <h2>Linguagens:</h2>
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  <h2>Estudando no momento:</h2>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+  <h2>Pretendo estudar:</h2>
+<div style="display: inline_block"><br>
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Angular" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169595.png">
+</div>
+ 
 </body>
